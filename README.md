@@ -1,6 +1,6 @@
 # Two Car Game - 2d js game
 
-Welcome to the **Two Car Game**! This is a simple yet exciting web game created using JavaScript, where two players compete in a race by controlling their cars with specific keys.
+Welcome to the **Two Car Game**! This is a simple yet exciting web game created using JavaScript, where Signle player compete in a race by controlling your cars with specific keys.
 
 ## 🎮 How to Play
 
