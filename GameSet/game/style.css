@@ -1,0 +1,86 @@
+.car {
+    position: absolute;
+    width: 265px;
+    height: 165px;
+    background-color: red;
+    background-image: url("car1.png");
+    background-position-y: -280px;
+    background-position-x: -30px
+}
+
+.car2 {
+    /* margin-top: 40px; */
+    position: absolute;
+    width: 265px;
+    height: 165px;
+    /* 263.6 */
+    background-color: red;
+    background-image: url("car1.png");
+    background-position-y: -810px;
+    background-position-x: -30px
+}
+
+.div1 {
+    height: 98vh;
+    background-color: yellow;
+}
+
+.div2 {
+    height: 49vh;
+    background-color: seagreen;
+    background-image: url("road3.jpg");
+    background-position-y: -50px;
+    background-repeat: repeat-x;
+    /* background-size: 304px 406px;*/
+}
+
+.object {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-top: 30px;
+    position: absolute;
+}
+
+.score {
+    margin-top: 0px;
+    margin-left: 1200px;
+    color: white;
+    position: absolute;
+}
+
+.score1 {
+    margin-top: 0px;
+    margin-left: 1350px;
+    color: white;
+    position: absolute;
+}
+
+.score2 {
+    margin-top: 320px;
+    margin-left: 800px;
+    position: absolute;
+}
+
+.score3 {
+    margin-top: 320px;
+    margin-left: 680px;
+    position: absolute;
+}
+
+.score4 {
+    margin-top: 200px;
+    margin-left: 680px;
+    position: absolute;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 450px;
+    margin-left: 45%;
+    transform: scale(1.5);
+    background-color: chartreuse;
+    width: 200px;
+    height: 30px;
+    border-radius: 12px;
+}
